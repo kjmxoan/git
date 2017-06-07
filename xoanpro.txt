@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 dadadadadasdadad
 
 android ios nodejs
 fjxfix
 gix
+=======
+>>>>>>> parent of 4b95678... 12345
